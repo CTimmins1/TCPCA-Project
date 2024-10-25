@@ -4,3 +4,4 @@
 //It is a TCP based project that will allow a client and server to communicate.
 //Contains a to-do list that will allow an action and event.
 //work in progress
+//finished and submitted by 23/10/2024--11 days early
